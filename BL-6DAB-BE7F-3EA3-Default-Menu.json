@@ -1,0 +1,2809 @@
+{
+  "menu": {
+    "active": true,
+    "categories": [
+      {
+        "active": true,
+        "description": "",
+        "id": "59990",
+        "name": "Apps",
+        "sort_order": 1
+      },
+      {
+        "active": true,
+        "description": "",
+        "id": "59991",
+        "name": "Salads",
+        "sort_order": 2
+      },
+      {
+        "active": true,
+        "description": "",
+        "id": "54268",
+        "name": "Steaks",
+        "sort_order": 3
+      },
+      {
+        "active": true,
+        "description": "",
+        "id": "54792",
+        "name": "Sides",
+        "sort_order": 4
+      },
+      {
+        "active": true,
+        "description": "",
+        "id": "54791",
+        "name": "Beverages",
+        "sort_order": 5
+      }
+    ],
+    "created_at": "2026-04-22T14:35:21.833501422Z",
+    "id": "default",
+    "location_id": "BL-6DAB-BE7F-3EA3",
+    "name": "Default Menu",
+    "schedule": {
+      "day_times": [
+        {
+          "day_index": "DAY_INDEX_MON",
+          "end_time": "23:00",
+          "start_time": "11:00"
+        },
+        {
+          "day_index": "DAY_INDEX_TUE",
+          "end_time": "23:00",
+          "start_time": "11:00"
+        },
+        {
+          "day_index": "DAY_INDEX_WED",
+          "end_time": "23:00",
+          "start_time": "11:00"
+        },
+        {
+          "day_index": "DAY_INDEX_THU",
+          "end_time": "23:00",
+          "start_time": "11:00"
+        },
+        {
+          "day_index": "DAY_INDEX_FRI",
+          "end_time": "23:00",
+          "start_time": "11:00"
+        },
+        {
+          "day_index": "DAY_INDEX_SAT",
+          "end_time": "23:00",
+          "start_time": "11:00"
+        },
+        {
+          "day_index": "DAY_INDEX_SUN",
+          "end_time": "23:00",
+          "start_time": "11:00"
+        }
+      ]
+    },
+    "schedule_overrides": []
+  },
+  "items": [
+    {
+      "active": true,
+      "category_ids": [
+        "54791"
+      ],
+      "category_references": [
+        {
+          "category_id": "54791",
+          "price": {
+            "amount": 700,
+            "pricing_kind": "PRICING_KIND_FIXED"
+          },
+          "schedule": null,
+          "schedule_overrides": [],
+          "sort_order": 1
+        }
+      ],
+      "created_at": "2026-04-22T14:35:22.354867902Z",
+      "description": "",
+      "id": "1056273",
+      "image_url": "",
+      "is_alcohol": false,
+      "is_available": true,
+      "item_groups": [],
+      "location_id": "BL-6DAB-BE7F-3EA3",
+      "menu_id": "default",
+      "modifier_groups": [
+        {
+          "active": true,
+          "description": "",
+          "id": "6966ba15ff2a37e4f40677b4",
+          "limits": {
+            "max": 1,
+            "min": 1,
+            "multi_select_max": 1
+          },
+          "modifiers": [
+            {
+              "active": true,
+              "description": "",
+              "id": "1056247",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Chocolate",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 0
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1056248",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Oreo",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 1
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1056249",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Vanilla",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 2
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1056250",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Strawberry",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 3
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1076745",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Shake of the Month*",
+              "price": {
+                "amount": 250,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 4
+            }
+          ],
+          "name": "Menu - Milkshakes Flavor",
+          "sort_order": 1
+        }
+      ],
+      "name": "Milkshakes",
+      "price": {
+        "amount": 700,
+        "pricing_kind": "PRICING_KIND_FIXED"
+      },
+      "schedule": null,
+      "sort_order": 1,
+      "taxes": [
+        {
+          "id": "3346",
+          "include_in_price": true,
+          "name": "Sales Tax",
+          "percent_rate": 66200
+        }
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "active": true,
+      "category_ids": [
+        "54268"
+      ],
+      "category_references": [
+        {
+          "category_id": "54268",
+          "price": {
+            "amount": 1400,
+            "pricing_kind": "PRICING_KIND_FIXED"
+          },
+          "schedule": null,
+          "schedule_overrides": [],
+          "sort_order": 4
+        }
+      ],
+      "created_at": "2026-04-22T14:35:22.354871111Z",
+      "description": "Chicken, fried onions, Cooper Sharp \"Whiz\"",
+      "id": "1056275",
+      "image_url": "https://res.cloudinary.com/spoton-express-prod/0/product-images/_1768671613547_862ce1e4.png",
+      "is_alcohol": false,
+      "is_available": true,
+      "item_groups": [],
+      "location_id": "BL-6DAB-BE7F-3EA3",
+      "menu_id": "default",
+      "modifier_groups": [
+        {
+          "active": true,
+          "description": "",
+          "id": "696bcaea466c132308969a87",
+          "limits": {
+            "max": 1,
+            "min": 1,
+            "multi_select_max": 1
+          },
+          "modifiers": [
+            {
+              "active": true,
+              "description": "",
+              "id": "1070891",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Plain",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 0
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1076721",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Seeded",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 1
+            }
+          ],
+          "name": "Menu- Sandwich Bread Choice",
+          "sort_order": 1
+        },
+        {
+          "active": true,
+          "description": "",
+          "id": "6966ba16ff2a37e4f40677b5",
+          "limits": {
+            "max": 2,
+            "min": 0,
+            "multi_select_max": 1
+          },
+          "modifiers": [
+            {
+              "active": true,
+              "description": "",
+              "id": "1056251",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "No Fried Onion",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 2
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1056252",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "No Cooper Sharp \"Whiz\"",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 2
+            }
+          ],
+          "name": "Menu - Da Bird Mod",
+          "sort_order": 2
+        },
+        {
+          "active": true,
+          "description": "",
+          "id": "6966ba17ff2a37e4f40677b7",
+          "limits": {
+            "max": 7,
+            "min": 0,
+            "multi_select_max": 1
+          },
+          "modifiers": [
+            {
+              "active": true,
+              "description": "",
+              "id": "1056258",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Onion",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 0
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1056259",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Mushrooms",
+              "price": {
+                "amount": 200,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 1
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1056260",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Lettuce",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 2
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1056261",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Tomato",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 3
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1056262",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Cherry Peppers",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 4
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1056263",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Long Hots",
+              "price": {
+                "amount": 200,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 5
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1056264",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Hot Peppers",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 6
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1076733",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Extra Cheese",
+              "price": {
+                "amount": 150,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 7
+            }
+          ],
+          "name": "Menu - Topping Add On",
+          "sort_order": 3
+        }
+      ],
+      "name": "Da Bird",
+      "price": {
+        "amount": 1400,
+        "pricing_kind": "PRICING_KIND_FIXED"
+      },
+      "schedule": null,
+      "sort_order": 4,
+      "taxes": [
+        {
+          "id": "3346",
+          "include_in_price": true,
+          "name": "Sales Tax",
+          "percent_rate": 66200
+        }
+      ],
+      "thumbnail_url": "https://res.cloudinary.com/spoton-express-prod/t_menu_thumb/0/product-images/_1768671613547_862ce1e4.png"
+    },
+    {
+      "active": true,
+      "category_ids": [
+        "54268"
+      ],
+      "category_references": [
+        {
+          "category_id": "54268",
+          "price": {
+            "amount": 1700,
+            "pricing_kind": "PRICING_KIND_FIXED"
+          },
+          "schedule": null,
+          "schedule_overrides": [],
+          "sort_order": 3
+        }
+      ],
+      "created_at": "2026-04-22T14:35:22.354877106Z",
+      "description": "Rib eye, provolone, cherry peppers, garlic aioli",
+      "id": "1056276",
+      "image_url": "https://res.cloudinary.com/spoton-express-prod/0/product-images/_1768671605561_88cf1fca.png",
+      "is_alcohol": false,
+      "is_available": true,
+      "item_groups": [],
+      "location_id": "BL-6DAB-BE7F-3EA3",
+      "menu_id": "default",
+      "modifier_groups": [
+        {
+          "active": true,
+          "description": "",
+          "id": "696bcaea466c132308969a87",
+          "limits": {
+            "max": 1,
+            "min": 1,
+            "multi_select_max": 1
+          },
+          "modifiers": [
+            {
+              "active": true,
+              "description": "",
+              "id": "1070891",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Plain",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 0
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1076721",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Seeded",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 1
+            }
+          ],
+          "name": "Menu- Sandwich Bread Choice",
+          "sort_order": 1
+        },
+        {
+          "active": true,
+          "description": "",
+          "id": "6966ba168f42b9b3f3b0ce84",
+          "limits": {
+            "max": 3,
+            "min": 0,
+            "multi_select_max": 1
+          },
+          "modifiers": [
+            {
+              "active": true,
+              "description": "",
+              "id": "1056253",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "No Cherry Pepper",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 2
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1056254",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "No Provolone",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 2
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1056255",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "No Garlic Aioli",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 2
+            }
+          ],
+          "name": "Menu - The Bada Bing Mod",
+          "sort_order": 2
+        },
+        {
+          "active": true,
+          "description": "",
+          "id": "6966ba17ff2a37e4f40677b7",
+          "limits": {
+            "max": 7,
+            "min": 0,
+            "multi_select_max": 1
+          },
+          "modifiers": [
+            {
+              "active": true,
+              "description": "",
+              "id": "1056258",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Onion",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 0
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1056259",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Mushrooms",
+              "price": {
+                "amount": 200,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 1
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1056260",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Lettuce",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 2
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1056261",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Tomato",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 3
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1056262",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Cherry Peppers",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 4
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1056263",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Long Hots",
+              "price": {
+                "amount": 200,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 5
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1056264",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Hot Peppers",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 6
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1076733",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Extra Cheese",
+              "price": {
+                "amount": 150,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 7
+            }
+          ],
+          "name": "Menu - Topping Add On",
+          "sort_order": 3
+        }
+      ],
+      "name": "The Bada Bing",
+      "price": {
+        "amount": 1700,
+        "pricing_kind": "PRICING_KIND_FIXED"
+      },
+      "schedule": null,
+      "sort_order": 3,
+      "taxes": [
+        {
+          "id": "3346",
+          "include_in_price": true,
+          "name": "Sales Tax",
+          "percent_rate": 66200
+        }
+      ],
+      "thumbnail_url": "https://res.cloudinary.com/spoton-express-prod/t_menu_thumb/0/product-images/_1768671605561_88cf1fca.png"
+    },
+    {
+      "active": true,
+      "category_ids": [
+        "54268"
+      ],
+      "category_references": [
+        {
+          "category_id": "54268",
+          "price": {
+            "amount": 1600,
+            "pricing_kind": "PRICING_KIND_FIXED"
+          },
+          "schedule": null,
+          "schedule_overrides": [],
+          "sort_order": 2
+        }
+      ],
+      "created_at": "2026-04-22T14:35:22.354882938Z",
+      "description": "Rib eye, fried onions, Cheez Whiz",
+      "id": "1056277",
+      "image_url": "",
+      "is_alcohol": false,
+      "is_available": true,
+      "item_groups": [],
+      "location_id": "BL-6DAB-BE7F-3EA3",
+      "menu_id": "default",
+      "modifier_groups": [
+        {
+          "active": true,
+          "description": "",
+          "id": "696bcaea466c132308969a87",
+          "limits": {
+            "max": 1,
+            "min": 1,
+            "multi_select_max": 1
+          },
+          "modifiers": [
+            {
+              "active": true,
+              "description": "",
+              "id": "1070891",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Plain",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 0
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1076721",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Seeded",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 1
+            }
+          ],
+          "name": "Menu- Sandwich Bread Choice",
+          "sort_order": 1
+        },
+        {
+          "active": true,
+          "description": "",
+          "id": "6966ba17ff2a37e4f40677b6",
+          "limits": {
+            "max": 2,
+            "min": 0,
+            "multi_select_max": 1
+          },
+          "modifiers": [
+            {
+              "active": true,
+              "description": "",
+              "id": "1056256",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "No Cheez Whiz",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 2
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1056257",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "No Fried Onion",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 2
+            }
+          ],
+          "name": "Menu - The OG Mod",
+          "sort_order": 2
+        },
+        {
+          "active": true,
+          "description": "",
+          "id": "6966ba17ff2a37e4f40677b7",
+          "limits": {
+            "max": 7,
+            "min": 0,
+            "multi_select_max": 1
+          },
+          "modifiers": [
+            {
+              "active": true,
+              "description": "",
+              "id": "1056258",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Onion",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 0
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1056259",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Mushrooms",
+              "price": {
+                "amount": 200,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 1
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1056260",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Lettuce",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 2
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1056261",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Tomato",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 3
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1056262",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Cherry Peppers",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 4
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1056263",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Long Hots",
+              "price": {
+                "amount": 200,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 5
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1056264",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Hot Peppers",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 6
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1076733",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Extra Cheese",
+              "price": {
+                "amount": 150,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 7
+            }
+          ],
+          "name": "Menu - Topping Add On",
+          "sort_order": 3
+        }
+      ],
+      "name": "The OG",
+      "price": {
+        "amount": 1600,
+        "pricing_kind": "PRICING_KIND_FIXED"
+      },
+      "schedule": null,
+      "sort_order": 2,
+      "taxes": [
+        {
+          "id": "3346",
+          "include_in_price": true,
+          "name": "Sales Tax",
+          "percent_rate": 66200
+        }
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "active": true,
+      "category_ids": [
+        "54268"
+      ],
+      "category_references": [
+        {
+          "category_id": "54268",
+          "price": {
+            "amount": 1600,
+            "pricing_kind": "PRICING_KIND_FIXED"
+          },
+          "schedule": null,
+          "schedule_overrides": [],
+          "sort_order": 1
+        }
+      ],
+      "created_at": "2026-04-22T14:35:22.354886646Z",
+      "description": "Rib eye, fried onions, mayo, Cooper Sharp \"Whiz\"",
+      "id": "1056278",
+      "image_url": "https://res.cloudinary.com/spoton-express-prod/0/product-images/_1768671589061_bde1f1c1.png",
+      "is_alcohol": false,
+      "is_available": true,
+      "item_groups": [],
+      "location_id": "BL-6DAB-BE7F-3EA3",
+      "menu_id": "default",
+      "modifier_groups": [
+        {
+          "active": true,
+          "description": "",
+          "id": "696bcaea466c132308969a87",
+          "limits": {
+            "max": 1,
+            "min": 1,
+            "multi_select_max": 1
+          },
+          "modifiers": [
+            {
+              "active": true,
+              "description": "",
+              "id": "1070891",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Plain",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 0
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1076721",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Seeded",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 1
+            }
+          ],
+          "name": "Menu- Sandwich Bread Choice",
+          "sort_order": 1
+        },
+        {
+          "active": true,
+          "description": "",
+          "id": "6966ba18ff2a37e4f40677b8",
+          "limits": {
+            "max": 3,
+            "min": 0,
+            "multi_select_max": 1
+          },
+          "modifiers": [
+            {
+              "active": true,
+              "description": "",
+              "id": "1056270",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "No Mayo",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 2
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1056271",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "No Cooper Sharp \"Whiz\"",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 2
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1056272",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "No Fried Onion",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 2
+            }
+          ],
+          "name": "Menu - The Cuzzie Mod",
+          "sort_order": 2
+        },
+        {
+          "active": true,
+          "description": "",
+          "id": "6966ba17ff2a37e4f40677b7",
+          "limits": {
+            "max": 7,
+            "min": 0,
+            "multi_select_max": 1
+          },
+          "modifiers": [
+            {
+              "active": true,
+              "description": "",
+              "id": "1056258",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Onion",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 0
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1056259",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Mushrooms",
+              "price": {
+                "amount": 200,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 1
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1056260",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Lettuce",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 2
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1056261",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Tomato",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 3
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1056262",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Cherry Peppers",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 4
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1056263",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Long Hots",
+              "price": {
+                "amount": 200,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 5
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1056264",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Hot Peppers",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 6
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1076733",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Extra Cheese",
+              "price": {
+                "amount": 150,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 7
+            }
+          ],
+          "name": "Menu - Topping Add On",
+          "sort_order": 3
+        }
+      ],
+      "name": "The Cuzzie",
+      "price": {
+        "amount": 1600,
+        "pricing_kind": "PRICING_KIND_FIXED"
+      },
+      "schedule": null,
+      "sort_order": 1,
+      "taxes": [
+        {
+          "id": "3346",
+          "include_in_price": true,
+          "name": "Sales Tax",
+          "percent_rate": 66200
+        }
+      ],
+      "thumbnail_url": "https://res.cloudinary.com/spoton-express-prod/t_menu_thumb/0/product-images/_1768671589061_bde1f1c1.png"
+    },
+    {
+      "active": true,
+      "category_ids": [
+        "54792"
+      ],
+      "category_references": [
+        {
+          "category_id": "54792",
+          "price": {
+            "amount": 500,
+            "pricing_kind": "PRICING_KIND_FIXED"
+          },
+          "schedule": null,
+          "schedule_overrides": [],
+          "sort_order": 1
+        }
+      ],
+      "created_at": "2026-04-22T14:35:22.354888289Z",
+      "description": "",
+      "id": "1070867",
+      "image_url": "https://res.cloudinary.com/spoton-express-prod/0/product-images/_1768671641880_a130066f.png",
+      "is_alcohol": false,
+      "is_available": true,
+      "item_groups": [],
+      "location_id": "BL-6DAB-BE7F-3EA3",
+      "menu_id": "default",
+      "modifier_groups": [
+        {
+          "active": true,
+          "description": "",
+          "id": "6970ed966cd141a6c731efde",
+          "limits": {
+            "max": 99,
+            "min": 0,
+            "multi_select_max": 1
+          },
+          "modifiers": [
+            {
+              "active": true,
+              "description": "",
+              "id": "1076734",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "American",
+              "price": {
+                "amount": 150,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 0
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1076735",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Cheese Whiz",
+              "price": {
+                "amount": 150,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 1
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1076736",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Coopers Sharp Whiz",
+              "price": {
+                "amount": 150,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 2
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1076737",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Provolone",
+              "price": {
+                "amount": 150,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 3
+            }
+          ],
+          "name": "Menu - Add Cheese",
+          "sort_order": 1
+        }
+      ],
+      "name": "Fries",
+      "price": {
+        "amount": 500,
+        "pricing_kind": "PRICING_KIND_FIXED"
+      },
+      "schedule": null,
+      "sort_order": 1,
+      "taxes": [
+        {
+          "id": "3346",
+          "include_in_price": true,
+          "name": "Sales Tax",
+          "percent_rate": 66200
+        }
+      ],
+      "thumbnail_url": "https://res.cloudinary.com/spoton-express-prod/t_menu_thumb/0/product-images/_1768671641880_a130066f.png"
+    },
+    {
+      "active": true,
+      "category_ids": [
+        "54792"
+      ],
+      "category_references": [
+        {
+          "category_id": "54792",
+          "price": {
+            "amount": 1200,
+            "pricing_kind": "PRICING_KIND_FIXED"
+          },
+          "schedule": null,
+          "schedule_overrides": [],
+          "sort_order": 2
+        }
+      ],
+      "created_at": "2026-04-22T14:35:22.354891308Z",
+      "description": "",
+      "id": "1070868",
+      "image_url": "https://res.cloudinary.com/spoton-express-prod/0/product-images/_1768671648163_707f69eb.png",
+      "is_alcohol": false,
+      "is_available": true,
+      "item_groups": [],
+      "location_id": "BL-6DAB-BE7F-3EA3",
+      "menu_id": "default",
+      "modifier_groups": [
+        {
+          "active": true,
+          "description": "",
+          "id": "6970edde6cd141a6c731efdf",
+          "limits": {
+            "max": 1,
+            "min": 1,
+            "multi_select_max": 1
+          },
+          "modifiers": [
+            {
+              "active": true,
+              "description": "",
+              "id": "1076740",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Regular",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 0
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1076741",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Chicken Cheesesteak",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 1
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1076742",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Buffalo Cheesesteak",
+              "price": {
+                "amount": 300,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 2
+            }
+          ],
+          "name": "Cuzzie Fries Choice",
+          "sort_order": 1
+        },
+        {
+          "active": true,
+          "description": "",
+          "id": "6970ee046cd141a6c731efe0",
+          "limits": {
+            "max": 99,
+            "min": 0,
+            "multi_select_max": 1
+          },
+          "modifiers": [
+            {
+              "active": true,
+              "description": "",
+              "id": "1076743",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "No Onion",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 0
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1076744",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "No Cheese",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 1
+            }
+          ],
+          "name": "Sides - Cuzzie Fries Mods",
+          "sort_order": 2
+        }
+      ],
+      "name": "Cuzzie Fries",
+      "price": {
+        "amount": 1200,
+        "pricing_kind": "PRICING_KIND_FIXED"
+      },
+      "schedule": null,
+      "sort_order": 2,
+      "taxes": [
+        {
+          "id": "3346",
+          "include_in_price": true,
+          "name": "Sales Tax",
+          "percent_rate": 66200
+        }
+      ],
+      "thumbnail_url": "https://res.cloudinary.com/spoton-express-prod/t_menu_thumb/0/product-images/_1768671648163_707f69eb.png"
+    },
+    {
+      "active": true,
+      "category_ids": [
+        "54792"
+      ],
+      "category_references": [
+        {
+          "category_id": "54792",
+          "price": {
+            "amount": 400,
+            "pricing_kind": "PRICING_KIND_FIXED"
+          },
+          "schedule": null,
+          "schedule_overrides": [],
+          "sort_order": 3
+        }
+      ],
+      "created_at": "2026-04-22T14:35:22.354891881Z",
+      "description": "",
+      "id": "1070869",
+      "image_url": "",
+      "is_alcohol": false,
+      "is_available": true,
+      "item_groups": [],
+      "location_id": "BL-6DAB-BE7F-3EA3",
+      "menu_id": "default",
+      "modifier_groups": [],
+      "name": "Fried Long Hots",
+      "price": {
+        "amount": 400,
+        "pricing_kind": "PRICING_KIND_FIXED"
+      },
+      "schedule": null,
+      "sort_order": 3,
+      "taxes": [
+        {
+          "id": "3346",
+          "include_in_price": true,
+          "name": "Sales Tax",
+          "percent_rate": 66200
+        }
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "active": true,
+      "category_ids": [
+        "54792"
+      ],
+      "category_references": [
+        {
+          "category_id": "54792",
+          "price": {
+            "amount": 0,
+            "pricing_kind": "PRICING_KIND_FIXED"
+          },
+          "schedule": null,
+          "schedule_overrides": [],
+          "sort_order": 4
+        }
+      ],
+      "created_at": "2026-04-22T14:35:22.354894312Z",
+      "description": "",
+      "id": "1070870",
+      "image_url": "",
+      "is_alcohol": false,
+      "is_available": true,
+      "item_groups": [],
+      "location_id": "BL-6DAB-BE7F-3EA3",
+      "menu_id": "default",
+      "modifier_groups": [],
+      "name": "Hot Pepper Relish",
+      "price": {
+        "amount": 0,
+        "pricing_kind": "PRICING_KIND_FIXED"
+      },
+      "schedule": null,
+      "sort_order": 4,
+      "taxes": [
+        {
+          "id": "3346",
+          "include_in_price": true,
+          "name": "Sales Tax",
+          "percent_rate": 66200
+        }
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "active": true,
+      "category_ids": [
+        "54268"
+      ],
+      "category_references": [
+        {
+          "category_id": "54268",
+          "price": {
+            "amount": 1500,
+            "pricing_kind": "PRICING_KIND_FIXED"
+          },
+          "schedule": null,
+          "schedule_overrides": [],
+          "sort_order": 5
+        }
+      ],
+      "created_at": "2026-04-22T14:35:22.354897778Z",
+      "description": "Chicken, Buffalo Sauce, Blue Cheese, Seeded Roll",
+      "id": "1070871",
+      "image_url": "https://res.cloudinary.com/spoton-express-prod/0/product-images/_1768671623753_89bbdf65.png",
+      "is_alcohol": false,
+      "is_available": true,
+      "item_groups": [],
+      "location_id": "BL-6DAB-BE7F-3EA3",
+      "menu_id": "default",
+      "modifier_groups": [
+        {
+          "active": true,
+          "description": "",
+          "id": "696bcaea466c132308969a87",
+          "limits": {
+            "max": 1,
+            "min": 1,
+            "multi_select_max": 1
+          },
+          "modifiers": [
+            {
+              "active": true,
+              "description": "",
+              "id": "1070891",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Plain",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 0
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1076721",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Seeded",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 1
+            }
+          ],
+          "name": "Menu- Sandwich Bread Choice",
+          "sort_order": 1
+        },
+        {
+          "active": true,
+          "description": "",
+          "id": "696bca0d466c132308969a85",
+          "limits": {
+            "max": 99,
+            "min": 0,
+            "multi_select_max": 1
+          },
+          "modifiers": [
+            {
+              "active": true,
+              "description": "",
+              "id": "1070878",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "No Mayo",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 0
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1070879",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "No Onion",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 1
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1070880",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "No Ketchup",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 2
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1070881",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "No Lettuce",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 3
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1070882",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "No Tomato",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 4
+            }
+          ],
+          "name": "Menu- Buffalo Bird Mod",
+          "sort_order": 2
+        },
+        {
+          "active": true,
+          "description": "",
+          "id": "6966ba17ff2a37e4f40677b7",
+          "limits": {
+            "max": 7,
+            "min": 0,
+            "multi_select_max": 1
+          },
+          "modifiers": [
+            {
+              "active": true,
+              "description": "",
+              "id": "1056258",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Onion",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 0
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1056259",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Mushrooms",
+              "price": {
+                "amount": 200,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 1
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1056260",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Lettuce",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 2
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1056261",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Tomato",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 3
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1056262",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Cherry Peppers",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 4
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1056263",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Long Hots",
+              "price": {
+                "amount": 200,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 5
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1056264",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Hot Peppers",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 6
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1076733",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Extra Cheese",
+              "price": {
+                "amount": 150,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 7
+            }
+          ],
+          "name": "Menu - Topping Add On",
+          "sort_order": 3
+        }
+      ],
+      "name": "Buffalo Bird",
+      "price": {
+        "amount": 1500,
+        "pricing_kind": "PRICING_KIND_FIXED"
+      },
+      "schedule": null,
+      "sort_order": 5,
+      "taxes": [
+        {
+          "id": "3346",
+          "include_in_price": true,
+          "name": "Sales Tax",
+          "percent_rate": 66200
+        }
+      ],
+      "thumbnail_url": "https://res.cloudinary.com/spoton-express-prod/t_menu_thumb/0/product-images/_1768671623753_89bbdf65.png"
+    },
+    {
+      "active": true,
+      "category_ids": [
+        "54268"
+      ],
+      "category_references": [
+        {
+          "category_id": "54268",
+          "price": {
+            "amount": 1500,
+            "pricing_kind": "PRICING_KIND_FIXED"
+          },
+          "schedule": null,
+          "schedule_overrides": [],
+          "sort_order": 6
+        }
+      ],
+      "created_at": "2026-04-22T14:35:22.754546980Z",
+      "description": "Chicken, Bacon, Lettuce, Tomato, Ranch",
+      "id": "1070872",
+      "image_url": "",
+      "is_alcohol": false,
+      "is_available": true,
+      "item_groups": [],
+      "location_id": "BL-6DAB-BE7F-3EA3",
+      "menu_id": "default",
+      "modifier_groups": [
+        {
+          "active": true,
+          "description": "",
+          "id": "696bcaea466c132308969a87",
+          "limits": {
+            "max": 1,
+            "min": 1,
+            "multi_select_max": 1
+          },
+          "modifiers": [
+            {
+              "active": true,
+              "description": "",
+              "id": "1070891",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Plain",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 0
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1076721",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Seeded",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 1
+            }
+          ],
+          "name": "Menu- Sandwich Bread Choice",
+          "sort_order": 1
+        },
+        {
+          "active": true,
+          "description": "",
+          "id": "6970ec356cd141a6c731efdb",
+          "limits": {
+            "max": 99,
+            "min": 0,
+            "multi_select_max": 1
+          },
+          "modifiers": [
+            {
+              "active": true,
+              "description": "",
+              "id": "1076723",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "No Bacon",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 0
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1076724",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "No Lettuce",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 1
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1076725",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "No Tomato",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 2
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1076726",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "No Ranch",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 3
+            }
+          ],
+          "name": "Steaks - The Cuzzie Ranch Mods",
+          "sort_order": 2
+        },
+        {
+          "active": true,
+          "description": "",
+          "id": "6966ba17ff2a37e4f40677b7",
+          "limits": {
+            "max": 7,
+            "min": 0,
+            "multi_select_max": 1
+          },
+          "modifiers": [
+            {
+              "active": true,
+              "description": "",
+              "id": "1056258",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Onion",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 0
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1056259",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Mushrooms",
+              "price": {
+                "amount": 200,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 1
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1056260",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Lettuce",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 2
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1056261",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Tomato",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 3
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1056262",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Cherry Peppers",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 4
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1056263",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Long Hots",
+              "price": {
+                "amount": 200,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 5
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1056264",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Hot Peppers",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 6
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1076733",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Extra Cheese",
+              "price": {
+                "amount": 150,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 7
+            }
+          ],
+          "name": "Menu - Topping Add On",
+          "sort_order": 3
+        }
+      ],
+      "name": "The Cuzzie Ranch",
+      "price": {
+        "amount": 1500,
+        "pricing_kind": "PRICING_KIND_FIXED"
+      },
+      "schedule": null,
+      "sort_order": 6,
+      "taxes": [
+        {
+          "id": "3346",
+          "include_in_price": true,
+          "name": "Sales Tax",
+          "percent_rate": 66200
+        }
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "active": true,
+      "category_ids": [
+        "54268"
+      ],
+      "category_references": [
+        {
+          "category_id": "54268",
+          "price": {
+            "amount": 1600,
+            "pricing_kind": "PRICING_KIND_FIXED"
+          },
+          "schedule": null,
+          "schedule_overrides": [],
+          "sort_order": 7
+        }
+      ],
+      "created_at": "2026-04-22T14:35:22.754550359Z",
+      "description": "Build your own jawn (cheesesteak)",
+      "id": "1070873",
+      "image_url": "",
+      "is_alcohol": false,
+      "is_available": true,
+      "item_groups": [],
+      "location_id": "BL-6DAB-BE7F-3EA3",
+      "menu_id": "default",
+      "modifier_groups": [
+        {
+          "active": true,
+          "description": "",
+          "id": "6970ed226cd141a6c731efdd",
+          "limits": {
+            "max": 99,
+            "min": 0,
+            "multi_select_max": 1
+          },
+          "modifiers": [
+            {
+              "active": true,
+              "description": "",
+              "id": "1076729",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Cheese Whiz",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 0
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1076730",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Cooper Sharp Whiz",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 1
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1076731",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "American",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 2
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1076732",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Provolone",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 3
+            }
+          ],
+          "name": "BYOJ - Add Cheese",
+          "sort_order": 1
+        },
+        {
+          "active": true,
+          "description": "",
+          "id": "6970ecb76cd141a6c731efdc",
+          "limits": {
+            "max": 1,
+            "min": 1,
+            "multi_select_max": 1
+          },
+          "modifiers": [
+            {
+              "active": true,
+              "description": "",
+              "id": "1076727",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Chicken",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 0
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1076728",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Beef",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 1
+            }
+          ],
+          "name": "Steaks - BYOJ Protein Choice",
+          "sort_order": 2
+        },
+        {
+          "active": true,
+          "description": "",
+          "id": "696bcaea466c132308969a87",
+          "limits": {
+            "max": 1,
+            "min": 1,
+            "multi_select_max": 1
+          },
+          "modifiers": [
+            {
+              "active": true,
+              "description": "",
+              "id": "1070891",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Plain",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 0
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1076721",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Seeded",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 1
+            }
+          ],
+          "name": "Menu- Sandwich Bread Choice",
+          "sort_order": 3
+        },
+        {
+          "active": true,
+          "description": "",
+          "id": "6966ba17ff2a37e4f40677b7",
+          "limits": {
+            "max": 7,
+            "min": 0,
+            "multi_select_max": 1
+          },
+          "modifiers": [
+            {
+              "active": true,
+              "description": "",
+              "id": "1056258",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Onion",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 0
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1056259",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Mushrooms",
+              "price": {
+                "amount": 200,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 1
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1056260",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Lettuce",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 2
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1056261",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Tomato",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 3
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1056262",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Cherry Peppers",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 4
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1056263",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Long Hots",
+              "price": {
+                "amount": 200,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 5
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1056264",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Hot Peppers",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 6
+            },
+            {
+              "active": true,
+              "description": "",
+              "id": "1076733",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Add Extra Cheese",
+              "price": {
+                "amount": 150,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 7
+            }
+          ],
+          "name": "Menu - Topping Add On",
+          "sort_order": 4
+        }
+      ],
+      "name": "BYOJ",
+      "price": {
+        "amount": 1600,
+        "pricing_kind": "PRICING_KIND_FIXED"
+      },
+      "schedule": null,
+      "sort_order": 7,
+      "taxes": [
+        {
+          "id": "3346",
+          "include_in_price": true,
+          "name": "Sales Tax",
+          "percent_rate": 66200
+        }
+      ],
+      "thumbnail_url": ""
+    },
+    {
+      "active": true,
+      "category_ids": [
+        "54791"
+      ],
+      "category_references": [
+        {
+          "category_id": "54791",
+          "price": {
+            "amount": 300,
+            "pricing_kind": "PRICING_KIND_FIXED"
+          },
+          "schedule": null,
+          "schedule_overrides": [],
+          "sort_order": 2
+        }
+      ],
+      "created_at": "2026-04-22T14:35:22.754552268Z",
+      "description": "",
+      "id": "1070889",
+      "image_url": "",
+      "is_alcohol": false,
+      "is_available": true,
+      "item_groups": [],
+      "location_id": "BL-6DAB-BE7F-3EA3",
+      "menu_id": "default",
+      "modifier_groups": [
+        {
+          "active": true,
+          "description": "",
+          "id": "6970ee8f6cd141a6c731efe1",
+          "limits": {
+            "max": 99,
+            "min": 0,
+            "multi_select_max": 1
+          },
+          "modifiers": [
+            {
+              "active": true,
+              "description": "",
+              "id": "1076746",
+              "image_url": "",
+              "is_alcohol": false,
+              "is_available": true,
+              "is_preselected": false,
+              "modifier_groups": [],
+              "name": "Coke",
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              },
+              "sort_order": 0
+            }
+          ],
+          "name": "Fountain Soda Choices",
+          "sort_order": 1
+        }
+      ],
+      "name": "Fountain Soda ",
+      "price": {
+        "amount": 300,
+        "pricing_kind": "PRICING_KIND_FIXED"
+      },
+      "schedule": null,
+      "sort_order": 2,
+      "taxes": [
+        {
+          "id": "3346",
+          "include_in_price": true,
+          "name": "Sales Tax",
+          "percent_rate": 66200
+        }
+      ],
+      "thumbnail_url": ""
+    }
+  ]
+}
