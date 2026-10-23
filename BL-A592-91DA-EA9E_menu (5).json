@@ -746,7 +746,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651697",
@@ -754,7 +757,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651698",
@@ -762,7 +768,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651699",
@@ -770,7 +779,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651700",
@@ -778,7 +790,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651701",
@@ -786,7 +801,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 100
+              "price": {
+                "amount": 100,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -807,7 +825,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 75
+              "price": {
+                "amount": 75,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1530514",
@@ -815,7 +836,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 75
+              "price": {
+                "amount": 75,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -836,7 +860,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651702",
@@ -844,7 +871,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651703",
@@ -852,7 +882,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -873,7 +906,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1566297",
@@ -881,7 +917,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1566298",
@@ -889,7 +928,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1566299",
@@ -897,7 +939,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1566300",
@@ -905,7 +950,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -924,7 +972,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1518143",
@@ -932,7 +983,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1518144",
@@ -940,7 +994,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -961,7 +1018,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1560713",
@@ -969,7 +1029,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1560714",
@@ -977,7 +1040,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1560715",
@@ -985,7 +1051,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -1006,7 +1075,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1534686",
@@ -1014,7 +1086,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1534687",
@@ -1022,7 +1097,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1534688",
@@ -1030,7 +1108,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1534689",
@@ -1038,7 +1119,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1534690",
@@ -1046,7 +1130,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1534691",
@@ -1054,7 +1141,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1534692",
@@ -1062,7 +1152,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1560725",
@@ -1070,7 +1163,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1560726",
@@ -1078,7 +1174,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1560727",
@@ -1086,7 +1185,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1620719",
@@ -1094,7 +1196,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -1115,7 +1220,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1566302",
@@ -1123,7 +1231,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1566303",
@@ -1131,7 +1242,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1566304",
@@ -1139,7 +1253,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1566305",
@@ -1147,7 +1264,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1566307",
@@ -1155,7 +1275,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1566308",
@@ -1163,7 +1286,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1630655",
@@ -1171,7 +1297,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1634955",
@@ -1179,7 +1308,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": false,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651695",
@@ -1187,7 +1319,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -1208,7 +1343,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 200
+              "price": {
+                "amount": 200,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651686",
@@ -1216,7 +1354,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 150
+              "price": {
+                "amount": 150,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651687",
@@ -1224,7 +1365,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 150
+              "price": {
+                "amount": 150,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651688",
@@ -1232,7 +1376,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 250
+              "price": {
+                "amount": 250,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651689",
@@ -1240,7 +1387,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 250
+              "price": {
+                "amount": 250,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651690",
@@ -1248,7 +1398,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 250
+              "price": {
+                "amount": 250,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651691",
@@ -1256,7 +1409,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 250
+              "price": {
+                "amount": 250,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651692",
@@ -1264,7 +1420,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 75
+              "price": {
+                "amount": 75,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651693",
@@ -1272,7 +1431,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 75
+              "price": {
+                "amount": 75,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651694",
@@ -1280,7 +1442,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 175
+              "price": {
+                "amount": 175,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -1301,7 +1466,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609358",
@@ -1309,7 +1477,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609359",
@@ -1317,7 +1488,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609360",
@@ -1325,7 +1499,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609361",
@@ -1333,7 +1510,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609362",
@@ -1341,7 +1521,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609363",
@@ -1349,7 +1532,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609364",
@@ -1357,7 +1543,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -1378,7 +1567,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         }
@@ -1733,7 +1925,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544110",
@@ -1741,7 +1936,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544111",
@@ -1749,7 +1947,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544112",
@@ -1757,7 +1958,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544113",
@@ -1765,7 +1969,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544114",
@@ -1773,7 +1980,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544115",
@@ -1781,7 +1991,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544116",
@@ -1789,7 +2002,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 75
+              "price": {
+                "amount": 75,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544117",
@@ -1797,7 +2013,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 150
+              "price": {
+                "amount": 150,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544118",
@@ -1805,7 +2024,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 250
+              "price": {
+                "amount": 250,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -1826,7 +2048,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 100
+              "price": {
+                "amount": 100,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -1847,7 +2072,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 75
+              "price": {
+                "amount": 75,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1530514",
@@ -1855,7 +2083,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 75
+              "price": {
+                "amount": 75,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -1876,7 +2107,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609358",
@@ -1884,7 +2118,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609359",
@@ -1892,7 +2129,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609360",
@@ -1900,7 +2140,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609361",
@@ -1908,7 +2151,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609362",
@@ -1916,7 +2162,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609363",
@@ -1924,7 +2173,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609364",
@@ -1932,7 +2184,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -1951,7 +2206,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1518143",
@@ -1959,7 +2217,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1518144",
@@ -1967,7 +2228,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -1988,7 +2252,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -2009,7 +2276,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         }
@@ -2332,7 +2602,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544120",
@@ -2340,7 +2613,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544121",
@@ -2348,7 +2624,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544122",
@@ -2356,7 +2635,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1546996",
@@ -2364,7 +2646,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651714",
@@ -2372,7 +2657,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 150
+              "price": {
+                "amount": 150,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -2393,7 +2681,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 100
+              "price": {
+                "amount": 100,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -2414,7 +2705,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 75
+              "price": {
+                "amount": 75,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1530514",
@@ -2422,7 +2716,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 75
+              "price": {
+                "amount": 75,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -2443,7 +2740,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609358",
@@ -2451,7 +2751,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609359",
@@ -2459,7 +2762,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609360",
@@ -2467,7 +2773,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609361",
@@ -2475,7 +2784,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609362",
@@ -2483,7 +2795,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609363",
@@ -2491,7 +2806,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609364",
@@ -2499,7 +2817,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -2518,7 +2839,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1518143",
@@ -2526,7 +2850,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1518144",
@@ -2534,7 +2861,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -2555,7 +2885,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -2576,7 +2909,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         }
@@ -2923,7 +3259,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544124",
@@ -2931,7 +3270,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544125",
@@ -2939,7 +3281,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544126",
@@ -2947,7 +3292,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544127",
@@ -2955,7 +3303,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544128",
@@ -2963,7 +3314,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544129",
@@ -2971,7 +3325,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 250
+              "price": {
+                "amount": 250,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544130",
@@ -2979,7 +3336,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 75
+              "price": {
+                "amount": 75,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651713",
@@ -2987,7 +3347,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 150
+              "price": {
+                "amount": 150,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -3008,7 +3371,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 100
+              "price": {
+                "amount": 100,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -3029,7 +3395,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 75
+              "price": {
+                "amount": 75,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1530514",
@@ -3037,7 +3406,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 75
+              "price": {
+                "amount": 75,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -3058,7 +3430,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609358",
@@ -3066,7 +3441,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609359",
@@ -3074,7 +3452,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609360",
@@ -3082,7 +3463,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609361",
@@ -3090,7 +3474,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609362",
@@ -3098,7 +3485,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609363",
@@ -3106,7 +3496,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609364",
@@ -3114,7 +3507,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -3133,7 +3529,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1518143",
@@ -3141,7 +3540,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1518144",
@@ -3149,7 +3551,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -3170,7 +3575,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -3191,7 +3599,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         }
@@ -3522,7 +3933,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544102",
@@ -3530,7 +3944,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544103",
@@ -3538,7 +3955,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544104",
@@ -3546,7 +3966,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544105",
@@ -3554,7 +3977,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544106",
@@ -3562,7 +3988,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 150
+              "price": {
+                "amount": 150,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544107",
@@ -3570,7 +3999,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 150
+              "price": {
+                "amount": 150,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -3591,7 +4023,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 100
+              "price": {
+                "amount": 100,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -3612,7 +4047,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 75
+              "price": {
+                "amount": 75,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1530514",
@@ -3620,7 +4058,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 75
+              "price": {
+                "amount": 75,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -3641,7 +4082,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609358",
@@ -3649,7 +4093,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609359",
@@ -3657,7 +4104,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609360",
@@ -3665,7 +4115,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609361",
@@ -3673,7 +4126,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609362",
@@ -3681,7 +4137,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609363",
@@ -3689,7 +4148,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609364",
@@ -3697,7 +4159,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -3716,7 +4181,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1518143",
@@ -3724,7 +4192,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1518144",
@@ -3732,7 +4203,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -3753,7 +4227,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -3774,7 +4251,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         }
@@ -4121,7 +4601,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544196",
@@ -4129,7 +4612,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544197",
@@ -4137,7 +4623,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544198",
@@ -4145,7 +4634,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544199",
@@ -4153,7 +4645,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544200",
@@ -4161,7 +4656,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544201",
@@ -4169,7 +4667,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 150
+              "price": {
+                "amount": 150,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544202",
@@ -4177,7 +4678,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 250
+              "price": {
+                "amount": 250,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1564054",
@@ -4185,7 +4689,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -4206,7 +4713,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 100
+              "price": {
+                "amount": 100,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -4227,7 +4737,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 75
+              "price": {
+                "amount": 75,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1530514",
@@ -4235,7 +4748,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 75
+              "price": {
+                "amount": 75,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -4256,7 +4772,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609358",
@@ -4264,7 +4783,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609359",
@@ -4272,7 +4794,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609360",
@@ -4280,7 +4805,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609361",
@@ -4288,7 +4816,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609362",
@@ -4296,7 +4827,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609363",
@@ -4304,7 +4838,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609364",
@@ -4312,7 +4849,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -4331,7 +4871,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1518143",
@@ -4339,7 +4882,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1518144",
@@ -4347,7 +4893,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -4368,7 +4917,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -4389,7 +4941,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         }
@@ -4664,7 +5219,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544083",
@@ -4672,7 +5230,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544084",
@@ -4680,7 +5241,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544085",
@@ -4688,7 +5252,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544086",
@@ -4696,7 +5263,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544087",
@@ -4704,7 +5274,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 200
+              "price": {
+                "amount": 200,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544088",
@@ -4712,7 +5285,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 250
+              "price": {
+                "amount": 250,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -4733,7 +5309,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 100
+              "price": {
+                "amount": 100,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -4754,7 +5333,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609358",
@@ -4762,7 +5344,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609359",
@@ -4770,7 +5355,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609360",
@@ -4778,7 +5366,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609361",
@@ -4786,7 +5377,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609362",
@@ -4794,7 +5388,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609363",
@@ -4802,7 +5399,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609364",
@@ -4810,7 +5410,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -4831,7 +5434,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 75
+              "price": {
+                "amount": 75,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1530514",
@@ -4839,7 +5445,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 75
+              "price": {
+                "amount": 75,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -4860,7 +5469,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         }
@@ -5140,7 +5752,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 100
+              "price": {
+                "amount": 100,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -5161,7 +5776,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 150
+              "price": {
+                "amount": 150,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -5182,7 +5800,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544098",
@@ -5190,7 +5811,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544099",
@@ -5198,7 +5822,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544100",
@@ -5206,7 +5833,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 250
+              "price": {
+                "amount": 250,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651715",
@@ -5214,7 +5844,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 150
+              "price": {
+                "amount": 150,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -5235,7 +5868,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 75
+              "price": {
+                "amount": 75,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1530514",
@@ -5243,7 +5879,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 75
+              "price": {
+                "amount": 75,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -5264,7 +5903,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609358",
@@ -5272,7 +5914,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609359",
@@ -5280,7 +5925,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609360",
@@ -5288,7 +5936,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609361",
@@ -5296,7 +5947,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609362",
@@ -5304,7 +5958,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609363",
@@ -5312,7 +5969,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609364",
@@ -5320,7 +5980,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -5341,7 +6004,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         }
@@ -5683,7 +6349,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1566278",
@@ -5691,7 +6360,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544089",
@@ -5699,7 +6371,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544090",
@@ -5707,7 +6382,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544091",
@@ -5715,7 +6393,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544092",
@@ -5723,7 +6404,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544093",
@@ -5731,7 +6415,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544094",
@@ -5739,7 +6426,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 250
+              "price": {
+                "amount": 250,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544095",
@@ -5747,7 +6437,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 250
+              "price": {
+                "amount": 250,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544096",
@@ -5755,7 +6448,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 75
+              "price": {
+                "amount": 75,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651716",
@@ -5763,7 +6459,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 150
+              "price": {
+                "amount": 150,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -5784,7 +6483,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 100
+              "price": {
+                "amount": 100,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -5805,7 +6507,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 75
+              "price": {
+                "amount": 75,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1530514",
@@ -5813,7 +6518,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 75
+              "price": {
+                "amount": 75,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -5834,7 +6542,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609358",
@@ -5842,7 +6553,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609359",
@@ -5850,7 +6564,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609360",
@@ -5858,7 +6575,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609361",
@@ -5866,7 +6586,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609362",
@@ -5874,7 +6597,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609363",
@@ -5882,7 +6608,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609364",
@@ -5890,7 +6619,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -5909,7 +6641,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1518143",
@@ -5917,7 +6652,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1518144",
@@ -5925,7 +6663,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -5946,7 +6687,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         }
@@ -6306,7 +7050,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 100
+              "price": {
+                "amount": 100,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -6327,7 +7074,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544067",
@@ -6335,7 +7085,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544068",
@@ -6343,7 +7096,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544069",
@@ -6351,7 +7107,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544070",
@@ -6359,7 +7118,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544071",
@@ -6367,7 +7129,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544072",
@@ -6375,7 +7140,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544137",
@@ -6383,7 +7151,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 500
+              "price": {
+                "amount": 500,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -6404,7 +7175,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 150
+              "price": {
+                "amount": 150,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -6425,7 +7199,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 75
+              "price": {
+                "amount": 75,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1530514",
@@ -6433,7 +7210,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 75
+              "price": {
+                "amount": 75,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -6454,7 +7234,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609358",
@@ -6462,7 +7245,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609359",
@@ -6470,7 +7256,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609360",
@@ -6478,7 +7267,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609361",
@@ -6486,7 +7278,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609362",
@@ -6494,7 +7289,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609363",
@@ -6502,7 +7300,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609364",
@@ -6510,7 +7311,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -6529,7 +7333,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1518143",
@@ -6537,7 +7344,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1518144",
@@ -6545,7 +7355,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -6566,7 +7379,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -6587,7 +7403,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         }
@@ -6894,7 +7713,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 2500
+              "price": {
+                "amount": 2500,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544133",
@@ -6902,7 +7724,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544134",
@@ -6910,7 +7735,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544135",
@@ -6918,7 +7746,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -6939,7 +7770,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 100
+              "price": {
+                "amount": 100,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -6960,7 +7794,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 150
+              "price": {
+                "amount": 150,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -6981,7 +7818,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609358",
@@ -6989,7 +7829,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609359",
@@ -6997,7 +7840,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609360",
@@ -7005,7 +7851,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609361",
@@ -7013,7 +7862,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609362",
@@ -7021,7 +7873,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609363",
@@ -7029,7 +7884,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609364",
@@ -7037,7 +7895,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -7058,7 +7919,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 75
+              "price": {
+                "amount": 75,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1530514",
@@ -7066,7 +7930,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 75
+              "price": {
+                "amount": 75,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -7085,7 +7952,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1518143",
@@ -7093,7 +7963,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1518144",
@@ -7101,7 +7974,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -7122,7 +7998,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         }
@@ -7437,7 +8316,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 100
+              "price": {
+                "amount": 100,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -7458,7 +8340,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 350
+              "price": {
+                "amount": 350,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544078",
@@ -7466,7 +8351,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544079",
@@ -7474,7 +8362,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544080",
@@ -7482,7 +8373,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1544081",
@@ -7490,7 +8384,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -7511,7 +8408,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 150
+              "price": {
+                "amount": 150,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -7532,7 +8432,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 75
+              "price": {
+                "amount": 75,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1530514",
@@ -7540,7 +8443,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 75
+              "price": {
+                "amount": 75,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -7561,7 +8467,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609358",
@@ -7569,7 +8478,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609359",
@@ -7577,7 +8489,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609360",
@@ -7585,7 +8500,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609361",
@@ -7593,7 +8511,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609362",
@@ -7601,7 +8522,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609363",
@@ -7609,7 +8533,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609364",
@@ -7617,7 +8544,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -7636,7 +8566,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1518143",
@@ -7644,7 +8577,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1518144",
@@ -7652,7 +8588,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -7673,7 +8612,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         }
@@ -7945,7 +8887,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609358",
@@ -7953,7 +8898,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609359",
@@ -7961,7 +8909,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609360",
@@ -7969,7 +8920,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609361",
@@ -7977,7 +8931,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609362",
@@ -7985,7 +8942,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609363",
@@ -7993,7 +8953,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609364",
@@ -8001,7 +8964,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -8022,7 +8988,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 100
+              "price": {
+                "amount": 100,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -8043,7 +9012,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": false,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1518593",
@@ -8051,7 +9023,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1518594",
@@ -8059,7 +9034,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1518595",
@@ -8067,7 +9045,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -8088,7 +9069,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 150
+              "price": {
+                "amount": 150,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -8109,7 +9093,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 75
+              "price": {
+                "amount": 75,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1530514",
@@ -8117,7 +9104,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 75
+              "price": {
+                "amount": 75,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -8138,7 +9128,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         }
@@ -8600,7 +9593,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573428",
@@ -8608,7 +9604,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573430",
@@ -8616,7 +9615,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573431",
@@ -8624,7 +9626,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573432",
@@ -8632,7 +9637,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573433",
@@ -8640,7 +9648,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573463",
@@ -8648,7 +9659,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573434",
@@ -8656,7 +9670,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573435",
@@ -8664,7 +9681,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573436",
@@ -8672,7 +9692,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573437",
@@ -8680,7 +9703,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573438",
@@ -8688,7 +9714,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573439",
@@ -8696,7 +9725,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573440",
@@ -8704,7 +9736,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573441",
@@ -8712,7 +9747,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1618422",
@@ -8720,7 +9758,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651659",
@@ -8728,7 +9769,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -8749,7 +9793,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 175
+              "price": {
+                "amount": 175,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573454",
@@ -8757,7 +9804,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 175
+              "price": {
+                "amount": 175,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573456",
@@ -8765,7 +9815,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 175
+              "price": {
+                "amount": 175,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573458",
@@ -8773,7 +9826,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 175
+              "price": {
+                "amount": 175,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651660",
@@ -8781,7 +9837,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 175
+              "price": {
+                "amount": 175,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573459",
@@ -8789,7 +9848,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 175
+              "price": {
+                "amount": 175,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573460",
@@ -8797,7 +9859,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 175
+              "price": {
+                "amount": 175,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -8818,7 +9883,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651664",
@@ -8826,7 +9894,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651665",
@@ -8834,7 +9905,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651666",
@@ -8842,7 +9916,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651667",
@@ -8850,7 +9927,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651668",
@@ -8858,7 +9938,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651669",
@@ -8866,7 +9949,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651670",
@@ -8874,7 +9960,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651671",
@@ -8882,7 +9971,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651672",
@@ -8890,7 +9982,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651676",
@@ -8898,7 +9993,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 250
+              "price": {
+                "amount": 250,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651677",
@@ -8906,7 +10004,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -8927,7 +10028,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609358",
@@ -8935,7 +10039,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609359",
@@ -8943,7 +10050,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609360",
@@ -8951,7 +10061,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609361",
@@ -8959,7 +10072,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609362",
@@ -8967,7 +10083,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609363",
@@ -8975,7 +10094,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609364",
@@ -8983,7 +10105,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         }
@@ -9445,7 +10570,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573428",
@@ -9453,7 +10581,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573430",
@@ -9461,7 +10592,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573431",
@@ -9469,7 +10603,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573432",
@@ -9477,7 +10614,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573433",
@@ -9485,7 +10625,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573463",
@@ -9493,7 +10636,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573434",
@@ -9501,7 +10647,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573435",
@@ -9509,7 +10658,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573436",
@@ -9517,7 +10669,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573437",
@@ -9525,7 +10680,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573438",
@@ -9533,7 +10691,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573439",
@@ -9541,7 +10702,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573440",
@@ -9549,7 +10713,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573441",
@@ -9557,7 +10724,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1618422",
@@ -9565,7 +10735,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651659",
@@ -9573,7 +10746,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -9594,7 +10770,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651664",
@@ -9602,7 +10781,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651665",
@@ -9610,7 +10792,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651666",
@@ -9618,7 +10803,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651667",
@@ -9626,7 +10814,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651668",
@@ -9634,7 +10825,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651669",
@@ -9642,7 +10836,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651670",
@@ -9650,7 +10847,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651671",
@@ -9658,7 +10858,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651672",
@@ -9666,7 +10869,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651676",
@@ -9674,7 +10880,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 250
+              "price": {
+                "amount": 250,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651677",
@@ -9682,7 +10891,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -9703,7 +10915,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 175
+              "price": {
+                "amount": 175,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573454",
@@ -9711,7 +10926,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 175
+              "price": {
+                "amount": 175,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573456",
@@ -9719,7 +10937,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 175
+              "price": {
+                "amount": 175,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573458",
@@ -9727,7 +10948,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 175
+              "price": {
+                "amount": 175,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651660",
@@ -9735,7 +10959,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 175
+              "price": {
+                "amount": 175,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573459",
@@ -9743,7 +10970,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 175
+              "price": {
+                "amount": 175,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573460",
@@ -9751,7 +10981,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 175
+              "price": {
+                "amount": 175,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -9772,7 +11005,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609358",
@@ -9780,7 +11016,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609359",
@@ -9788,7 +11027,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609360",
@@ -9796,7 +11038,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609361",
@@ -9804,7 +11049,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609362",
@@ -9812,7 +11060,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609363",
@@ -9820,7 +11071,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609364",
@@ -9828,7 +11082,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         }
@@ -10290,7 +11547,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573428",
@@ -10298,7 +11558,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573430",
@@ -10306,7 +11569,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573431",
@@ -10314,7 +11580,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573432",
@@ -10322,7 +11591,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573433",
@@ -10330,7 +11602,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573463",
@@ -10338,7 +11613,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573434",
@@ -10346,7 +11624,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573435",
@@ -10354,7 +11635,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573436",
@@ -10362,7 +11646,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573437",
@@ -10370,7 +11657,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573438",
@@ -10378,7 +11668,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573439",
@@ -10386,7 +11679,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573440",
@@ -10394,7 +11690,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573441",
@@ -10402,7 +11701,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1618422",
@@ -10410,7 +11712,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651659",
@@ -10418,7 +11723,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -10439,7 +11747,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651664",
@@ -10447,7 +11758,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651665",
@@ -10455,7 +11769,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651666",
@@ -10463,7 +11780,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651667",
@@ -10471,7 +11791,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651668",
@@ -10479,7 +11802,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651669",
@@ -10487,7 +11813,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651670",
@@ -10495,7 +11824,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651671",
@@ -10503,7 +11835,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651672",
@@ -10511,7 +11846,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651676",
@@ -10519,7 +11857,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 250
+              "price": {
+                "amount": 250,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651677",
@@ -10527,7 +11868,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -10548,7 +11892,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 175
+              "price": {
+                "amount": 175,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573454",
@@ -10556,7 +11903,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 175
+              "price": {
+                "amount": 175,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573456",
@@ -10564,7 +11914,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 175
+              "price": {
+                "amount": 175,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573458",
@@ -10572,7 +11925,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 175
+              "price": {
+                "amount": 175,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651660",
@@ -10580,7 +11936,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 175
+              "price": {
+                "amount": 175,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573459",
@@ -10588,7 +11947,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 175
+              "price": {
+                "amount": 175,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573460",
@@ -10596,7 +11958,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 175
+              "price": {
+                "amount": 175,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -10617,7 +11982,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609358",
@@ -10625,7 +11993,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609359",
@@ -10633,7 +12004,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609360",
@@ -10641,7 +12015,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609361",
@@ -10649,7 +12026,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609362",
@@ -10657,7 +12037,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609363",
@@ -10665,7 +12048,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609364",
@@ -10673,7 +12059,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         }
@@ -10898,7 +12287,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609358",
@@ -10906,7 +12298,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609359",
@@ -10914,7 +12309,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609360",
@@ -10922,7 +12320,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609361",
@@ -10930,7 +12331,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609362",
@@ -10938,7 +12342,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609363",
@@ -10946,7 +12353,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1609364",
@@ -10954,7 +12364,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 50
+              "price": {
+                "amount": 50,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -10975,7 +12388,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 2299
+              "price": {
+                "amount": 2299,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         },
@@ -10996,7 +12412,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 175
+              "price": {
+                "amount": 175,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573454",
@@ -11004,7 +12423,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 175
+              "price": {
+                "amount": 175,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573456",
@@ -11012,7 +12434,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 175
+              "price": {
+                "amount": 175,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573458",
@@ -11020,7 +12445,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 175
+              "price": {
+                "amount": 175,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1651660",
@@ -11028,7 +12456,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 175
+              "price": {
+                "amount": 175,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573459",
@@ -11036,7 +12467,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 175
+              "price": {
+                "amount": 175,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1573460",
@@ -11044,7 +12478,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 175
+              "price": {
+                "amount": 175,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         }
@@ -11171,7 +12608,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1620703",
@@ -11179,7 +12619,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1620704",
@@ -11187,7 +12630,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1620707",
@@ -11195,7 +12641,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1620708",
@@ -11203,7 +12652,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1620709",
@@ -11211,7 +12663,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1620710",
@@ -11219,7 +12674,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         }
@@ -11338,7 +12796,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1620712",
@@ -11346,7 +12807,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1620713",
@@ -11354,7 +12818,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1620714",
@@ -11362,7 +12829,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1620715",
@@ -11370,7 +12840,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             },
             {
               "id": "1660674",
@@ -11378,7 +12851,10 @@
               "description": "",
               "isDefault": false,
               "isAvailable": true,
-              "price": 0
+              "price": {
+                "amount": 0,
+                "pricing_kind": "PRICING_KIND_FIXED"
+              }
             }
           ]
         }
