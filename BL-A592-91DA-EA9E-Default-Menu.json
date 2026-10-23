@@ -1,210 +1,210 @@
 [
   {
-    "category": null,
+    "category": "Wraps",
     "name": "BYO Wrap",
     "description": "",
     "price": "10.39"
   },
   {
-    "category": null,
+    "category": "Wraps",
     "name": "Chicken Bacon Ranch",
     "description": "Spinach Wrap, chicken, bacon, cheddar, tomato, banana pepper and house ranch",
     "price": "14.55"
   },
   {
-    "category": null,
+    "category": "Wraps",
     "name": "Chicken Fajita",
     "description": "Chipotle wrap, fajita chicken, lettuce, onion, green pepper, tomato, with house fajita sauce",
     "price": "13.51"
   },
   {
-    "category": null,
+    "category": "Wraps",
     "name": "Buffalo Chicken",
     "description": "Chipotle wrap,  fajita chicken, lettuce, tomato, onion, celery, blue cheese, buffalo sauce",
     "price": "14.55"
   },
   {
-    "category": null,
+    "category": "Wraps",
     "name": "Chipotle Beef and Cheddar",
     "description": "Chipotle wrap, roast beef, bacon, cheddar, lettuce, tomato, onion, and our own chipotle mayo",
     "price": "14.55"
   },
   {
-    "category": null,
+    "category": "Wraps",
     "name": "Todd's BCB Deluxe",
     "description": "Garlic & herb wrap, beef, bacon, cheddar, tomato, onion, lettuce, pickle and burger sauce",
     "price": "14.55"
   },
   {
-    "category": null,
+    "category": "Wraps",
     "name": "Bethke",
     "description": "Garlic/Herb,Spinach,Roast Beef,Bacon,Onion, Corn star and Top Dog relish,Feta Chesse",
     "price": "14.99"
   },
   {
-    "category": null,
-    "name": " Tuna Matatta",
+    "category": "Wraps",
+    "name": "Tuna Matatta",
     "description": "Tomato Basil Wrap, The Best Tuna Salad, lettuce, alfalfa sprouts, cucumbers",
     "price": "12.47"
   },
   {
-    "category": null,
+    "category": "Wraps",
     "name": "Steak wrap",
-    "description": "Vegetable Garden, Lettuce,Onion,tomato,Cheese, Steak sauce. ",
+    "description": "Vegetable Garden, Lettuce,Onion,tomato,Cheese, Steak sauce.",
     "price": "17.67"
   },
   {
-    "category": null,
+    "category": "Wraps",
     "name": "Lobster Wrap",
     "description": "",
     "price": "31.18"
   },
   {
-    "category": null,
+    "category": "Wraps",
     "name": "Fish Wrap",
     "description": "",
     "price": "17.67"
   },
   {
-    "category": null,
+    "category": "Wraps",
     "name": "The Kiddo",
     "description": "10\" Flour,Choice of Peanut butter and Jelly/Jam.",
     "price": "4.99"
   },
   {
-    "category": null,
+    "category": "Pizza",
     "name": "One Toppin",
     "description": "",
     "price": "16.63"
   },
   {
-    "category": null,
+    "category": "Pizza",
     "name": "2 Topping",
     "description": "",
     "price": "17.16"
   },
   {
-    "category": null,
+    "category": "Pizza",
     "name": "3 topping",
     "description": "",
     "price": "18.72"
   },
   {
-    "category": null,
+    "category": "Pizza",
     "name": "Deluxe",
     "description": "",
     "price": "23.91"
   },
   {
-    "category": null,
+    "category": "Soups",
     "name": "Soup-cup",
-    "description": "Daily weekly rotation ",
+    "description": "Daily weekly rotation",
     "price": "4.68"
   },
   {
-    "category": null,
+    "category": "Soups",
     "name": "Soup-Bowl",
     "description": "Daily/Weekly Rotation",
     "price": "7.28"
   },
   {
-    "category": null,
+    "category": "Chips",
     "name": "Regular Chips",
     "description": "",
     "price": "1.04"
   },
   {
-    "category": null,
+    "category": "Chips",
     "name": "Kettle chips",
     "description": "",
     "price": "3.11"
   },
   {
-    "category": null,
+    "category": "Desserts",
     "name": "Cheesecake",
     "description": "Rotating flavors daily and weekly",
     "price": "10.92"
   },
   {
-    "category": null,
+    "category": "Desserts",
     "name": "1/2 price cheesecake",
     "description": "",
     "price": "5.25"
   },
   {
-    "category": null,
+    "category": "Soda",
     "name": "Coke",
     "description": "",
     "price": "2.86"
   },
   {
-    "category": null,
+    "category": "Soda",
     "name": "Diet Coke",
     "description": "",
     "price": "2.86"
   },
   {
-    "category": null,
+    "category": "Soda",
     "name": "Pepsi",
     "description": "",
     "price": "2.50"
   },
   {
-    "category": null,
+    "category": "Soda",
     "name": "Diet pepsi",
     "description": "",
     "price": "2.86"
   },
   {
-    "category": null,
+    "category": "Soda",
     "name": "Mt Dew",
     "description": "",
     "price": "2.86"
   },
   {
-    "category": null,
+    "category": "Soda",
     "name": "Dt Dew",
     "description": "",
     "price": "2.86"
   },
   {
-    "category": null,
+    "category": "Soda",
     "name": "root beer",
     "description": "",
     "price": "3.66"
   },
   {
-    "category": null,
+    "category": "Soda",
     "name": "Dr. Pepper",
     "description": "",
     "price": "2.50"
   },
   {
-    "category": null,
+    "category": "Soda",
     "name": "Pepsi zero",
     "description": "",
     "price": "2.50"
   },
   {
-    "category": null,
+    "category": "Soda",
     "name": "Celsius",
     "description": "",
     "price": "4.16"
   },
   {
-    "category": null,
+    "category": "Soda",
     "name": "Tea",
     "description": "",
     "price": "3.25"
   },
   {
-    "category": null,
+    "category": "Soda",
     "name": "Sprite",
     "description": "",
     "price": "2.50"
   },
   {
-    "category": null,
+    "category": "Soda",
     "name": "Squirt",
     "description": "",
     "price": "2.60"
