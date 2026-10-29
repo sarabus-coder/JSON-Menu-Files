@@ -2786,7 +2786,40 @@ async function uploadMenuJsonToGithub(file, locationId, account) {
   return out.url;
 }
 
+function locationFromMenuJson(j) {
+  return (j && j.menu && j.menu.location_id) || (j && j.items && j.items[0] && j.items[0].location_id) || '';
+}
+
+function fillLocationFrom(j) {
+  const loc = locationFromMenuJson(j);
+  const el = document.getElementById('merchantId');
+  if (loc && el && el.value.trim() !== loc) {
+    el.value = loc;
+    el.dispatchEvent(new Event('input', { bubbles: true }));
+  }
+}
+
+function wireLocationAutofill() {
+  const fileEl = document.getElementById('menuJsonFile');
+  if (fileEl) {
+    fileEl.addEventListener('change', async () => {
+      const file = fileEl.files[0];
+      if (!file) return;
+      try { fillLocationFrom(JSON.parse(await file.text())); } catch (e) { /* not valid JSON; the upload will report it */ }
+    });
+  }
+  const urlEl = document.getElementById('menuJsonUrl');
+  if (urlEl) {
+    urlEl.addEventListener('change', async () => {
+      const url = urlEl.value.trim();
+      if (!url) return;
+      try { const r = await fetch(url); if (r.ok) fillLocationFrom(await r.json()); } catch (e) { /* unreachable URL; the fallback will report it */ }
+    });
+  }
+}
+
 function wireJsonUpload() {
+  wireLocationAutofill();
   const btn = document.getElementById('uploadJsonBtn');
   if (!btn) return;
   btn.addEventListener('click', async () => {
