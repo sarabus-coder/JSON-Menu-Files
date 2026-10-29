@@ -2793,13 +2793,29 @@ function locationFromMenuJson(j) {
 function fillLocationFrom(j) {
   const loc = locationFromMenuJson(j);
   const el = document.getElementById('merchantId');
-  if (loc && el && el.value.trim() !== loc) {
+  if (!loc || !el) return;
+  window.jsonLocation = loc;
+  if (el.value.trim() !== loc) {
     el.value = loc;
     el.dispatchEvent(new Event('input', { bubbles: true }));
   }
 }
 
+// If a different location is loaded, the JSON fallback no longer belongs to it: clear the JSON inputs.
+function clearJsonIfMismatch() {
+  const el = document.getElementById('merchantId');
+  if (!window.jsonLocation || !el || el.value.trim() === window.jsonLocation) return;
+  window.jsonLocation = null;
+  const fileEl = document.getElementById('menuJsonFile');
+  const urlEl = document.getElementById('menuJsonUrl');
+  if (fileEl) fileEl.value = '';
+  if (urlEl) urlEl.value = '';
+  setJsonStatus('Cleared the saved JSON because it is for a different location.', 'info');
+}
+
 function wireLocationAutofill() {
+  const idEl = document.getElementById('merchantId');
+  if (idEl) idEl.addEventListener('input', clearJsonIfMismatch);
   const fileEl = document.getElementById('menuJsonFile');
   if (fileEl) {
     fileEl.addEventListener('change', async () => {
@@ -2832,6 +2848,7 @@ function wireJsonUpload() {
       setJsonStatus('Uploading…');
       const url = await uploadMenuJsonToGithub(file, document.getElementById('merchantId').value.trim(), account);
       document.getElementById('menuJsonUrl').value = url;
+      window.jsonLocation = document.getElementById('merchantId').value.trim();
       setJsonStatus('Uploaded. The URL is filled in below and saved with the embed code.', 'ok');
     } catch (e) {
       setJsonStatus(e.message, 'error');
