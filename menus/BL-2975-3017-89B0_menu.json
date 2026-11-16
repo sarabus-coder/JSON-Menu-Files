@@ -1,0 +1,13 @@
+{
+  "menu": {
+    "active": true,
+    "categories": [],
+    "created_at": null,
+    "id": "default",
+    "location_id": "BL-9A76-284E-42E8",
+    "name": "Default Menu",
+    "schedule": null,
+    "schedule_overrides": []
+  },
+  "items": []
+}
